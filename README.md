@@ -1,4 +1,4 @@
-## Hi there, I'm Ishangi Shashinthya 👋
+# Hi there, I'm Ishangi Shashinthya 👋
 
 I'm a Computer Engineering student at the University of Ruhuna.  
 🌱 I'm passionate about technology, coding, and problem-solving.
